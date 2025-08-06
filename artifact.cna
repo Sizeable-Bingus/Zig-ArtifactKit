@@ -1,6 +1,6 @@
 set EXECUTABLE_ARTIFACT_GENERATOR {
     $zigPath = "<FULL_PATH_TO_ZIG_BINARY>";
-    $repoPath = "<FULL_PATH_TO_REPO_DIRECTORY>"
+    $repoPath = "<FULL_PATH_TO_REPO_DIRECTORY>";
 
 
     $length = strlen($2);
